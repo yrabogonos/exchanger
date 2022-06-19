@@ -1,0 +1,102 @@
+DEBUG| 2022-06-02 17:48:40,543| views| 4960| 3904| Get request working!
+INFO| 2022-06-02 17:49:11,438| views| 10360| 14464| Get request working!
+INFO| 2022-06-02 17:49:33,377| views| 10360| 4152| Delete request working!
+INFO| 2022-06-02 17:50:12,432| views| 10360| 4152| Post request working!
+INFO| 2022-06-02 17:50:28,224| views| 10360| 4152| Put request working!
+ERROR| 2022-06-02 17:50:28,225| views| 10360| 4152| Method PUT is not allowed
+INFO| 2022-06-02 17:50:43,112| views| 10360| 4152| Put request working!
+ERROR| 2022-06-02 17:50:43,120| views| 10360| 4152| Object doesn`t exist
+INFO| 2022-06-02 17:53:08,744| views| 3032| 11888| Delete request working!
+ERROR| 2022-06-02 17:53:08,746| views| 3032| 11888| Object doesn`t exist
+INFO| 2022-06-02 17:53:39,476| views| 3032| 11888| Delete request working!
+ERROR| 2022-06-02 17:53:39,476| views| 3032| 11888| Method DELETE is not allowed
+INFO| 2022-06-02 17:53:57,049| views| 3032| 11888| Delete request working!
+INFO| 2022-06-02 17:54:20,635| views| 3032| 11888| Post request working!
+INFO| 2022-06-02 18:17:03,506| views| 3436| 11752| Post request working!
+INFO| 2022-06-02 18:19:09,178| views| 3708| 7856| Post request working!
+INFO| 2022-06-02 18:21:22,764| views| 4184| 4836| Post request working!
+INFO| 2022-06-02 18:22:27,441| views| 4948| 1484| Post request working!
+INFO| 2022-06-02 18:22:31,932| views| 4948| 3876| Exchanging request working!
+INFO| 2022-06-02 18:24:22,469| views| 9008| 4040| Post request working!
+INFO| 2022-06-02 18:25:06,958| views| 2312| 11604| Post request working!
+INFO| 2022-06-02 18:25:39,590| views| 5064| 13896| Post request working!
+INFO| 2022-06-02 18:29:51,164| views| 3696| 16076| Post request working!
+INFO| 2022-06-02 18:31:04,680| views| 12420| 1968| Post request working!
+INFO| 2022-06-02 18:31:47,674| views| 12420| 1968| Post request working!
+INFO| 2022-06-02 18:32:13,697| views| 10360| 15620| Post request working!
+INFO| 2022-06-02 18:32:32,074| views| 10360| 15620| Post request working!
+INFO| 2022-06-02 18:33:03,480| views| 10360| 15620| Post request working!
+INFO| 2022-06-02 18:33:15,321| views| 10360| 15620| Post request working!
+INFO| 2022-06-02 18:34:04,567| views| 9148| 9516| Post request working!
+ERROR| 2022-06-02 18:34:04,568| views| 9148| 9516| Error
+INFO| 2022-06-02 18:37:11,597| views| 4152| 1648| Delete request working!
+INFO| 2022-06-02 18:37:52,146| views| 4152| 1648| Delete request working!
+INFO| 2022-06-02 18:38:42,502| views| 4152| 11328| Exchanging request working!
+INFO| 2022-06-02 18:39:17,405| views| 4152| 12344| Exchanging request working!
+INFO| 2022-06-02 18:39:57,110| views| 2272| 17308| Exchanging request working!
+INFO| 2022-06-02 18:41:13,499| views| 14592| 9768| Exchanging request working!
+INFO| 2022-06-02 18:41:49,347| views| 5552| 3012| Exchanging request working!
+INFO| 2022-06-02 18:42:30,130| views| 15228| 12596| Exchanging request working!
+INFO| 2022-06-02 18:42:55,387| views| 5836| 7548| Exchanging request working!
+INFO| 2022-06-02 18:43:39,642| views| 16396| 9620| Exchanging request working!
+INFO| 2022-06-02 18:45:41,668| views| 8152| 3736| Exchanging request working!
+ERROR| 2022-06-02 18:45:41,668| views| 8152| 3736| Error in arguments. Expecting 3 arguments
+INFO| 2022-06-02 18:46:14,598| views| 8152| 8636| Exchanging request working!
+INFO| 2022-06-02 18:46:54,865| views| 8152| 5692| Post request working!
+ERROR| 2022-06-02 18:46:54,866| views| 8152| 5692| Data doesn`t match serializer`s requirements
+INFO| 2022-06-06 11:56:35,923| views| 12344| 4720| Get request working!
+INFO| 2022-06-06 12:06:59,486| views| 12344| 3492| Delete request working!
+ERROR| 2022-06-06 12:06:59,487| views| 12344| 3492| Object doesn`t exist
+INFO| 2022-06-06 12:08:52,963| views| 17124| 15864| Post request working!
+INFO| 2022-06-06 12:08:52,968| views| 17124| 15864| Get request working!
+INFO| 2022-06-06 12:08:52,971| views| 17124| 15864| Post request working!
+INFO| 2022-06-06 12:08:52,973| views| 17124| 15864| Get request working!
+INFO| 2022-06-06 12:15:19,919| views| 6076| 11656| Exchanging request working!
+INFO| 2022-06-06 12:15:19,923| views| 6076| 11656| Exchanging request working!
+INFO| 2022-06-06 12:15:19,928| views| 6076| 11656| Exchanging request working!
+INFO| 2022-06-19 19:10:54,443| views| 6112| 13188| Get request working!
+INFO| 2022-06-19 19:16:15,023| views| 2568| 9700| Exchanging request working!
+INFO| 2022-06-19 19:16:15,027| views| 2568| 9700| Exchanging request working!
+INFO| 2022-06-19 19:16:15,032| views| 2568| 9700| Exchanging request working!
+INFO| 2022-06-19 19:16:21,775| views| 1536| 7964| Post request working!
+INFO| 2022-06-19 19:16:21,783| views| 1536| 7964| Get request working!
+INFO| 2022-06-19 19:16:21,787| views| 1536| 7964| Post request working!
+INFO| 2022-06-19 19:16:21,788| views| 1536| 7964| Get request working!
+INFO| 2022-06-19 19:16:21,795| views| 1536| 7964| Exchanging request working!
+INFO| 2022-06-19 19:16:21,802| views| 1536| 7964| Exchanging request working!
+INFO| 2022-06-19 19:16:21,807| views| 1536| 7964| Exchanging request working!
+INFO| 2022-06-19 19:20:30,439| views| 8808| 9420| Get request working!
+INFO| 2022-06-19 19:21:00,968| views| 8808| 9420| Exchanging request working!
+ERROR| 2022-06-19 19:21:00,968| views| 8808| 9420| Error in arguments. Expecting 3 arguments
+INFO| 2022-06-19 19:21:37,110| views| 8808| 9420| Exchanging request working!
+INFO| 2022-06-19 19:21:56,465| views| 8808| 9420| Exchanging request working!
+INFO| 2022-06-19 19:29:26,299| views| 1576| 13388| Exchanging request working!
+INFO| 2022-06-19 19:32:00,612| views| 1576| 10456| Get request working!
+INFO| 2022-06-19 19:32:57,447| views| 1576| 10456| Exchanging request working!
+ERROR| 2022-06-19 19:32:57,447| views| 1576| 10456| Error in arguments. Expecting 3 arguments
+INFO| 2022-06-19 19:37:04,286| views| 1576| 10456| Exchanging request working!
+INFO| 2022-06-19 19:48:34,312| views| 1576| 12072| Get request working!
+INFO| 2022-06-19 19:49:19,896| views| 1576| 8288| Post request working!
+ERROR| 2022-06-19 19:49:19,896| views| 1576| 8288| Data doesn`t match serializer`s requirements
+INFO| 2022-06-19 19:49:59,960| views| 1576| 8288| Post request working!
+INFO| 2022-06-19 19:50:41,365| views| 1576| 8288| Put request working!
+ERROR| 2022-06-19 19:50:41,366| views| 1576| 8288| Method PUT is not allowed
+INFO| 2022-06-19 19:51:53,967| views| 1576| 11244| Put request working!
+INFO| 2022-06-19 19:52:11,382| views| 1576| 11244| Delete request working!
+INFO| 2022-06-19 19:52:19,714| views| 1576| 11244| Delete request working!
+ERROR| 2022-06-19 19:52:19,724| views| 1576| 11244| Object doesn`t exist
+INFO| 2022-06-19 19:53:38,733| views| 1576| 11244| Get request working!
+INFO| 2022-06-19 19:54:14,353| views| 5700| 5280| Post request working!
+INFO| 2022-06-19 19:54:14,359| views| 5700| 5280| Get request working!
+INFO| 2022-06-19 19:54:14,362| views| 5700| 5280| Post request working!
+INFO| 2022-06-19 19:54:14,362| views| 5700| 5280| Get request working!
+INFO| 2022-06-19 19:54:14,368| views| 5700| 5280| Exchanging request working!
+INFO| 2022-06-19 19:54:14,372| views| 5700| 5280| Exchanging request working!
+INFO| 2022-06-19 19:54:14,379| views| 5700| 5280| Exchanging request working!
+INFO| 2022-06-19 20:56:40,680| views| 12416| 11440| Post request working!
+INFO| 2022-06-19 20:56:40,688| views| 12416| 11440| Get request working!
+INFO| 2022-06-19 20:56:40,693| views| 12416| 11440| Post request working!
+INFO| 2022-06-19 20:56:40,693| views| 12416| 11440| Get request working!
+INFO| 2022-06-19 20:56:40,702| views| 12416| 11440| Exchanging request working!
+INFO| 2022-06-19 20:56:40,710| views| 12416| 11440| Exchanging request working!
+INFO| 2022-06-19 20:56:40,718| views| 12416| 11440| Exchanging request working!
